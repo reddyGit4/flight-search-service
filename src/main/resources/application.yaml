@@ -1,0 +1,10 @@
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    path: /swagger-ui.html
+
+server:
+  port: 8084
+  servlet:
+    context-path: /flight-search-service
